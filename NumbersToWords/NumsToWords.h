@@ -9,8 +9,6 @@ std::string gUnique[] = {"eleven","twelve"};
 std::string gPrefix[] = {"twen","thir","for","fif","six","seven","eigh","nin"};
 std::string gSuffix[] = {"teen","ty","hundred","thousand"};
 
-// void toWords(int x);
-
 void toWords(int x)
 {
     if ( (x > MAX_NUM) || x < 0 )
@@ -68,7 +66,7 @@ void toWords(int x)
 	    std::cout << gOnes[x];
 	}
 
-};
+}
 
 
 
