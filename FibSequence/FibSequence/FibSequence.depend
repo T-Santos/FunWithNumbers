@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1434416244 source:c:\users\tsantos\documents\github\inpututils\integer\integerinput.cpp
+	"IntegerInput.h"
+
+1434415453 c:\users\tsantos\documents\github\inpututils\integer\integerinput.h
+	<string>
+	<iostream>
+	<sstream>
+
+1434679540 source:c:\users\tsantos\documents\github\funwithnumbers\fibsequence\fibsequence\main.cpp
+	<iostream>
+	"../../../InputUtils/Integer/IntegerInput.h"
+

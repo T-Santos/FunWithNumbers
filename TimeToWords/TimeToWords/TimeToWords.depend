@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1435629515 source:c:\users\tsantos\documents\github\funwithnumbers\timetowords\timetowords\main.cpp
+	<iostream>
+	"../../../InputUtils/Time/Time.h"
+
+1435457614 source:c:\users\tsantos\documents\github\inpututils\integer\integerinput.cpp
+	"IntegerInput.h"
+
+1435509411 c:\users\tsantos\documents\github\inpututils\integer\integerinput.h
+	<string>
+	<iostream>
+	<sstream>
+
+1435630424 c:\users\tsantos\documents\github\inpututils\time\time.h
+	<string>
+	<iostream>
+	"C:\Users\TSANTOS\Documents\GitHub\InputUtils\Integer\IntegerInput.h"
+
+1435630786 source:c:\users\tsantos\documents\github\src\time.cpp
+	"C:\Users\TSANTOS\Documents\GitHub\InputUtils\Time\Time.h"
+
